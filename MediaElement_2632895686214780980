@@ -1,0 +1,12 @@
+<emds.epi.decl.modell.MediaElement id="1">
+  <name>doc_test</name>
+  <description></description>
+  <processSenarioID>22d970f3-93ac-4f59-a60b-43ee041aa4be</processSenarioID>
+  <ID>2632895686214780980</ID>
+  <revisionNumber>1719386118527</revisionNumber>
+  <groupId>11</groupId>
+  <autoDeleteFlag>false</autoDeleteFlag>
+  <importRevision>0</importRevision>
+  <mimeType>text/html</mimeType>
+  <fileExtension>html</fileExtension>
+</emds.epi.decl.modell.MediaElement>
