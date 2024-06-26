@@ -1,0 +1,10 @@
+<Group id="1">
+  <name>Credentials</name>
+  <processSenarioID>22d970f3-93ac-4f59-a60b-43ee041aa4be</processSenarioID>
+  <ID>22</ID>
+  <revisionNumber>1719386020352</revisionNumber>
+  <groupId>17</groupId>
+  <autoDeleteFlag>false</autoDeleteFlag>
+  <importRevision>0</importRevision>
+  <memberTypeName>Credential</memberTypeName>
+</Group>
